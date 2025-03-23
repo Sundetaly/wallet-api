@@ -55,7 +55,7 @@ A REST API built with Django REST Framework for managing wallets and transaction
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Sundetaly/wallet-api.git
    cd wallet-api
    ```
 
